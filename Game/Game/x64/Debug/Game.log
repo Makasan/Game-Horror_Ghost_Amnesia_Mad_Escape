@@ -1,0 +1,26 @@
+﻿  Player.cpp
+C:\Users\yongy\Desktop\Game\Game\Game\Player.cpp(76,42): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\yongy\Desktop\Game\Game\Game\Player.cpp(77,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\yongy\Desktop\Game\Game\Game\Player.cpp(84,42): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\yongy\Desktop\Game\Game\Game\Player.cpp(85,24): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\yongy\Desktop\Game\Game\Game\Player.cpp(91,42): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\yongy\Desktop\Game\Game\Game\Player.cpp(92,24): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\yongy\Desktop\Game\Game\Game\Player.cpp(98,42): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\yongy\Desktop\Game\Game\Game\Player.cpp(99,24): warning C4305: '=': truncation from 'double' to 'float'
+  Game.vcxproj -> C:\Users\yongy\Desktop\Game\Game\x64\Debug\Game.exe
