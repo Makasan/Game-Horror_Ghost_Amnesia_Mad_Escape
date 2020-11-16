@@ -9,7 +9,7 @@ public:
 
 	sf::IntRect uvRect;
 
-	void Update(int row, float deltaTime, bool faceRight);
+	void Update(int row, float deltaTime);/*, bool faceRight*/
 
 private:
 	sf::Vector2u imageCount;
